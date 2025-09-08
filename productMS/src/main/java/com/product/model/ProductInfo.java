@@ -8,5 +8,8 @@ public class ProductInfo {
 	private String pName;
 	private String pDesc;
 	private double pPrice;
+	
+	
+	
 
 }
